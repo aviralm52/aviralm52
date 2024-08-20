@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aviralm52" alt="aviralm52" /></a> </p>
 
-- 🔭 I’m currently working on [Movix](https://movix-themoviesite.vercel.app/)
+- 🔭 I’m currently working on [Movix](https://www.vacationsaga.com)
 
 - 🌱 I’m currently learning **NodeJs**
 
@@ -16,6 +16,8 @@
 - 💬 Ask me about **react, tailwind, javascript, web scraping, selenium webdrivers, python**
 
 - 📫 How to reach me **aviralm52@gmail.com**
+
+- I am a nerd coder , don't have a life , i believe in talk less do code.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
