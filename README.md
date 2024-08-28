@@ -17,8 +17,6 @@
 
 - 📫 How to reach me **aviralm52@gmail.com**
 
-- I am a nerd coder , don't have a life , i believe in talk less do code.
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/aviralm52" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aviralm52" height="30" width="40" /></a>
