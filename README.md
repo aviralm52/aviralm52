@@ -33,6 +33,6 @@
 
 
 ## My GitHub Skyline 🌌
-![GitHub Skyline](gh skyline --year 2024)
+![GitHub Skyline](<gh skyline --year 2024>)
 
 
